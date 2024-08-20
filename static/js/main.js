@@ -12756,7 +12756,7 @@
                             i.jsx)(l, {
                                 to: "https://uptimerobot.com/",
                                 text: "UptimeRobot"
-                            }), "\xa0\u63a5\u53e3\xa0|\xa0\u68c0\u6d4b\u9891\u7387\xa05\xa0\u5206\u949f"]
+                            }), "\xa0\u63a5\u53e3\xa0|\xa0\u68c0\u6d4b\u9891\u7387\xa01\xa0\u5c0f\u65f6"]
                         }), (0,
                         i.jsxs)("p", {
                             children: ["Copyright\xa0\xa9\xa02020\xa0-\xa02023\xa0", (0,

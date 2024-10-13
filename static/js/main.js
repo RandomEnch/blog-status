@@ -12540,7 +12540,7 @@
                                 custom_uptime_ranges: i.join("-")
                             },
                             e.next = 10,
-                            gn().post("https://api.uptimerobot.com/v2/getMonitors", s, {
+                            gn().post("https://api.jingcraft.com/v2/getMonitors", s, {
                                 timeout: 1e4
                             });
                         case 10:
@@ -12763,10 +12763,6 @@
                             i.jsx)(l, {
                                 to: "https://blog.randench.cn/",
                                 text: "RandomEnch"
-                            }), "\xa0|\xa0Powered by\xa0", (0,
-                            i.jsx)(l, {
-                                to: "https://github.com/yb/uptime-status",
-                                text: "uptime-status"
                             }), "\xa0", xn]
                         })]
                     })]

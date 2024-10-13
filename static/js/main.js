@@ -12540,7 +12540,7 @@
                                 custom_uptime_ranges: i.join("-")
                             },
                             e.next = 10,
-                            gn().post("https://cors.status.org.cn/uptimerobot/v2/getMonitors", s, {
+                            gn().post("https://api.uptimerobot.com/v2/getMonitors", s, {
                                 timeout: 1e4
                             });
                         case 10:
